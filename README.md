@@ -3,7 +3,14 @@
 ## Summary 
 Machine Learning Engineer with 3 years of experience. Demonstrated proficiency in SQL, data pre-processing, and predictive modeling in a healthcare research context. Seeking Machine Learning Engineer role to leverage skills in data analysis, hypothesis formulation, and statistical testing.
 
-#### Technical Skills: Python, SQL, AWS, Salesforce, Machine Learning, Apache Spark, Hive, Kafka
+#### Technical Skills: 
+- **Programming Languages:** Python, Java, Scala, Linux, Salesforce Apex
+- **Databases:** MySQL, Microsoft Access
+- **Cloud and Big Data:** Amazon Web Services, Apache Spark, Apache Hive, Apache Kafka
+- **Machine Learning Algorithms:** Multinomial Regression, Time-Series Analysis, Support Vectr Machines, Decision Trees, Random Forest
+- **Libraries, Tools, and Frameworks:** PyTorch, GitHub, NumPy, Pandas, Postman, Scikit Learn, Stats Model, Scrapy
+- **Data Visualization:** Tableau, Matplotlib, Seaborn
+- **Software Development:** Data Structures, Algorithms, Code Debugging 
 
 ## Education
 - M.S., Data Science	| University of Houston (_May 2024_)
