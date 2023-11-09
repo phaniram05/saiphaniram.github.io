@@ -1,11 +1,11 @@
-# Data Scientist
+# Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Salesforce, Machine Learning, Apache Spark, Hive, Kafka
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Data Science	| University of Houston (_May 2024_)
+- Inter-Institutional Course., Applied Machine Learning Capstone	| Rice University (_December 2023_)	 			        		
+- B.Tech., Mechanical Engineering | Jawaharlal Nehru Technological University at Kakina (_May 2019_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
