@@ -8,7 +8,7 @@ Machine Learning Engineer with 3 years of experience. Demonstrated proficiency i
 ## Education
 - M.S., Data Science	| University of Houston (_May 2024_)
 - Inter-Institutional Course., Applied Machine Learning Capstone	| Rice University (_December 2023_)	 			        		
-- B.Tech., Mechanical Engineering | Jawaharlal Nehru Technological University at Kakina (_May 2019_)
+- B.Tech., Mechanical Engineering | Jawaharlal Nehru Technological University at Kakinada (_May 2019_)
 
 ## Work Experience
 **Research Assistant @ College of Technology (_September 2023 - Present_)**
