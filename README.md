@@ -1,4 +1,4 @@
-# Data Engineer
+# Machine Learning Engineer
 
 ## Summary 
 Machine Learning Engineer with 3 years of experience. Demonstrated proficiency in SQL, data pre-processing, and predictive modeling in a healthcare research context. Seeking Machine Learning Engineer role to leverage skills in data analysis, hypothesis formulation, and statistical testing.
@@ -11,7 +11,7 @@ Machine Learning Engineer with 3 years of experience. Demonstrated proficiency i
 - B.Tech., Mechanical Engineering | Jawaharlal Nehru Technological University at Kakinada (_May 2019_)
 
 ## Work Experience
-**Research Assistant @ College of Technology (_September 2023 - Present_)**
+**Research Assistant @ University of Houston (_September 2023 - Present_)**
 - Applies propensityscores and Chi-Square tests to enhance theaccuracy of dataanalysis from the "Research All of Us" database.
 - Utilizes SQL proficiency for effective extraction and preprocessing of data, facilitating seamless data analysis in research investigations.
 - Conducts comprehensive literature review to inform predictive modeling of CRS (Chronic Rhinosinusitis) syndrome.
@@ -50,4 +50,5 @@ Machine Learning Engineer with 3 years of experience. Demonstrated proficiency i
 - Salesforce Certified Administrator (_2020_)
 
 
+- [LinkedIn](https://www.linkedin.com/in/phanirampopuri)
 - [Leetcode Profile](https://leetcode.com/saiphaniram98/)
